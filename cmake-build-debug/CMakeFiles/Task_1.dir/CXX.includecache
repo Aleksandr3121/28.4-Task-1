@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/teach programm skillbox/28.4/Task 1/main.cpp
+iostream
+-
+thread
+-
+mutex
+-
+vector
+-
+string
+-
+chrono
+-
+utility
+-
+algorithm
+-
+iomanip
+-
+
